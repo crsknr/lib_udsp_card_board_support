@@ -13,7 +13,7 @@ Add this library to your XMOS project by including it in your CMakeLists.txt:
 ```cmake
 # Add module and set hardware target
 set(APP_DEPENDENT_MODULES   "..."
-                            "lib_ssh_pu_board_support(1.0.0)"
+                            "lib_udsp_card_board_support(1.0.0)"
                             "...")
 set(APP_HW_TARGET           udsp-card.xn)
 ```
@@ -26,7 +26,7 @@ Simple bring-up example within a main.xc file:
 #include <xs1.h>„
 #include <platform.h>
 
-#include "ssh_pu_board.h"
+#include "udsp_board_board.h"
 
 int main() {
     // Distribute threads
