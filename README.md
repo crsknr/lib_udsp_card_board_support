@@ -1,6 +1,6 @@
 # lib_udsp-card_board_support
 
-`lib_udsp-card_board_support` contains board specific hardware configuration code and simple bring-up sequence for the **uDSP-Card** development board, based on the XMOS XU316. For detailed hardware information, schematics, and PCB files, see the hardware repository: [hw_udsp-card](https://github.com/crsknr/hw_udsp-card)
+`lib_udsp-card_board_support` contains board specific hardware configuration code and simple bring-up sequence for the **uDSP-Card** development board, based on the XMOS XU316. For detailed hardware information, schematics, and PCB files, see the hardware repository: [`hw_udsp-card`](https://github.com/crsknr/hw_udsp-card)
 
 This repository accompanies the blog post "[uDSP-Card: XCORE.AI Development Board for Portable Applications](https://crsknr.github.io/blog/blog/udsp-card)".
 
