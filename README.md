@@ -48,7 +48,7 @@ int main() {
 
 ## Required Tools
 
-* **[XMOS XTC Tool](https://www.xmos.com/software-tools)s**: 15.3.1 or later
+* **[XMOS XTC Tools](https://www.xmos.com/software-tools)**: 15.3.1 or later
 
 ## Required Libraries (Dependencies)
 
